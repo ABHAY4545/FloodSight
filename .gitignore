@@ -1,0 +1,12 @@
+.venv/
+__ref__/
+__pycache__/
+*.pyc
+FloodNet/
+outputs/
+*.pth
+*.keras
+*.zip
+*.ipynb
+.DS_Store
+**/.DS_Store
